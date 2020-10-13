@@ -13,4 +13,5 @@ def find_even_values(src)
 
 end 
 
-find_even_values([1,2,3])
+find_even_values([
+  [1,2], [4,6,7]])
